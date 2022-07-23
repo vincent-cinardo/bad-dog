@@ -1,4 +1,4 @@
-#Bad Dog!
+##Bad Dog!
 
 This the game, "Bad Dog!", I made for NeuroTechR3 for an internship through the New Jersey Institute of Technology. It is a game made in Unity that utilized the Leap Motion Controller to control the so called, bad dog. It escapes from the vet and the goal is to avoid obstacles, gather pickups, and make it to the home at the end.
 
