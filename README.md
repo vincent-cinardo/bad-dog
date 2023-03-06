@@ -6,4 +6,4 @@ Bad Dog! is made for neurorehabilitation for those with stroke. It exercises rad
 
 Code is unavailable due to an NDA I signed with NeuroTechR3.
 
-Due to an NDA I have with NeuroTechR3, the most I can show is a video. Here is the link: https://youtu.be/UMsgrbLS5F8
+However, I can show this video covering the game. Here is the link: https://youtu.be/UMsgrbLS5F8
