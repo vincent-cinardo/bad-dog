@@ -4,4 +4,6 @@
 
 Bad Dog! is made for neurorehabilitation for those with stroke. It exercises radial/ulnar deviation to restore motor function. Patient data is gathered to assess their progress.
 
+Code is unavailable due to an NDA I signed with NeuroTechR3.
+
 Due to an NDA I have with NeuroTechR3, the most I can show is a video. Here is the link: https://youtu.be/UMsgrbLS5F8
